@@ -1,0 +1,13 @@
+.vs/GG8GameTrackingApp/DesignTimeBuild/
+.vs/GG8GameTrackingApp/project-colors.json
+.vs/slnx.sqlite
+API/appsettings.Development.json
+API/bin/
+API/obj/
+Database/bin/
+Database/obj/
+.vs/GG8GameTrackingApp/v17/.futdcache.v1
+
+.vs/GG8GameTrackingApp/v17/.suo
+
+.vs/GG8GameTrackingApp/v17/
